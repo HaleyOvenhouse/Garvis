@@ -1,0 +1,7 @@
+{
+  "name": "Garvis",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
